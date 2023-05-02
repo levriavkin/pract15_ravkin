@@ -1,0 +1,10 @@
+C:\Users\305-7\Desktop\Рявкин\pract15_c\pract15_c\bin\Debug\pract15_c.exe.config
+C:\Users\305-7\Desktop\Рявкин\pract15_c\pract15_c\bin\Debug\pract15_c.exe
+C:\Users\305-7\Desktop\Рявкин\pract15_c\pract15_c\bin\Debug\pract15_c.pdb
+C:\Users\305-7\Desktop\Рявкин\pract15_c\pract15_c\obj\Debug\pract15_c.csproj.AssemblyReference.cache
+C:\Users\305-7\Desktop\Рявкин\pract15_c\pract15_c\obj\Debug\pract15_c.Form1.resources
+C:\Users\305-7\Desktop\Рявкин\pract15_c\pract15_c\obj\Debug\pract15_c.Properties.Resources.resources
+C:\Users\305-7\Desktop\Рявкин\pract15_c\pract15_c\obj\Debug\pract15_c.csproj.GenerateResource.cache
+C:\Users\305-7\Desktop\Рявкин\pract15_c\pract15_c\obj\Debug\pract15_c.csproj.CoreCompileInputs.cache
+C:\Users\305-7\Desktop\Рявкин\pract15_c\pract15_c\obj\Debug\pract15_c.exe
+C:\Users\305-7\Desktop\Рявкин\pract15_c\pract15_c\obj\Debug\pract15_c.pdb
